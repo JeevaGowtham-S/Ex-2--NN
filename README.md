@@ -1,6 +1,6 @@
 <H3>Name : JEEVAGOWTHAM S</H3>
 <H3>Register no. 212222230053</H3>
-<H3>Date</H3>
+<H3>Date: 13/09/2024</H3>
 <H3>Experiment No. 2 </H3>
   Implementation of Perceptron for Binary Classification
 # AIM:
@@ -213,7 +213,6 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/ab5806c8-097f-4ae3-b646-02c269aa093d)
 
-![image](https://github.com/user-attachments/assets/865b0ec8-1f4c-4454-94cc-b4dc40369a64)
 
  ![image](https://github.com/user-attachments/assets/aef65587-f8ad-45fa-bb31-c845268c0438)
 
