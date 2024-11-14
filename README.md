@@ -1,8 +1,9 @@
 <H3>Name : JEEVAGOWTHAM S</H3>
 <H3>Register no. 212222230053</H3>
 <H3>Date: 13/09/2024</H3>
-<H3>Experiment No. 2 </H3>
-  Implementation of Perceptron for Binary Classification
+
+# Experiment No. 2 
+# Implementation of Perceptron for Binary Classification
 # AIM:
 To implement a perceptron for classification using Python<BR>
 
